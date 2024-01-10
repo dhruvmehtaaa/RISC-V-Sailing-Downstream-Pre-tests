@@ -13,7 +13,7 @@ This OCaml project includes a function to count word occurrences in a text file.
   ```bash
   opam install dune
   
-# Usage
+## Usage
 
 1. **Clone the repository:**
 
@@ -32,7 +32,8 @@ This OCaml project includes a function to count word occurrences in a text file.
 
    ```bash
    dune exec challenge
-
+  ## Output 1
+![Results](https://github.com/dhruvmehtaaa/RISC-V-Sailing-Downstream-Pre-tests/blob/main/Screenshots/Coding%20Challenge%201.png)
 # Coding Challenge 2 - List Processor
 
 A Python program that accepts a list of integers, removes elements at positions multiple of 2 or 3, and provides testing for the program.
@@ -63,3 +64,6 @@ A Python program that accepts a list of integers, removes elements at positions 
 
    ```bash
    python -m unittest -v test_list_processor.py
+
+  ## Output 2
+![Results](https://github.com/dhruvmehtaaa/RISC-V-Sailing-Downstream-Pre-tests/blob/main/Screenshots/Coding%20Challenge%202.png)
