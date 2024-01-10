@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/challenge/META"
+  "_build/install/default/lib/challenge/dune-package"
+  "_build/install/default/lib/challenge/opam"
+]
+bin: [
+  "_build/install/default/bin/challenge.exe"
+]

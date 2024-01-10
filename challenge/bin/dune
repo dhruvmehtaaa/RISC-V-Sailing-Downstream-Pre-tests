@@ -1,0 +1,4 @@
+(executable
+ (public_name challenge)
+ (name main)
+ (libraries challenge))

@@ -1,0 +1,6 @@
+Repetition is necessary for thorough testing.
+Testing OCaml program for word occurrences.
+Word count functionality is important for analyzing text.
+Repetition can highlight patterns in the text.
+Patterns in the text can be useful for various applications.
+End of the second part of the sample text file.
